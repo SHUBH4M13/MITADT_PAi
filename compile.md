@@ -1,4 +1,4 @@
-cd Desktop
-nasm -f elf32/64 program.asm
-ld - o program program.o
-. /program
+cd Desktop <br>
+nasm -f elf32/64 program.asm <br>
+ld - o program program.o <br>
+. /program <br>
